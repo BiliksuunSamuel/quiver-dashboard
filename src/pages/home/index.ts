@@ -1,0 +1,10 @@
+export { default as HomePage } from "./HomePage";
+export { default as ContentPage } from "./ContentPage";
+export { default as AccountSettingsPage } from "./AccountSettingsPage";
+export { default as UsersPage } from "./UsersPage";
+export { default as CurrenciesPage } from "./CurrenciesPage";
+export { default as LoansPage } from "./LoansPage";
+export { default as SavingsPage } from "./SavingsPage";
+export { default as TransactionsPage } from "./TransactionsPage";
+export { default as AgentsPage } from "./AgentsPage";
+export { default as ActivitiesPage } from "./ActivitiesPage";
